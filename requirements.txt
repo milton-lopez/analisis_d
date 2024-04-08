@@ -12,6 +12,7 @@ xgboost
 spacy
 transformers
 torch
+torchvision
 pyarrow
 fastparquet
 nbconvert
